@@ -4,5 +4,50 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/Menu.unity
+    guid: b4034083e1239b34584e91eca1efd527
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/DriftScene.unity
+    guid: 8b9c5f7a7f711b74daac6e2378071e0c
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/DriftScene_DriftAI.unity
+    guid: cdfcdadea2ad74f4682a592cce9aae76
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/DriftScene_SplitScreen.unity
+    guid: 0de53884319fd4f4db644703f4376213
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/DriftSceneNight.unity
+    guid: 4712883493a91204badffc7c06be7c02
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/RaceScene.unity
+    guid: 34deb619ca55ddd499ae4aaab13a27b2
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/RaceScene_Bikes_RaceAI.unity
+    guid: fa2dae15a097d594d8258c1a966567f9
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/RaceScene_PursuitAI.unity
+    guid: 0b869c989e9d5014b93fbc1e86b75675
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/RaceScene_RaceAI.unity
+    guid: 842f6015a1f133f4a8c8a5bef854edbe
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/RaceScene_SplitScreen.unity
+    guid: 5e52a4e7a591b434ab270863e7b11cbc
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/DriftScene_CharacterController.unity
+    guid: 5dea6fd4123659d4d80c02197ab18d11
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/RaceScene_CharacterController.unity
+    guid: b3ebccadb7090934294cfda105c72746
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/PrototypeScene.unity
+    guid: b6d9d29696d508f4cb0d393780bbe1b9
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/PrototypeScene_CharacterController.unity
+    guid: 8059412356e4b8a4984ebfc5cd3e114a
+  - enabled: 1
+    path: Assets/UniversalVehicleController/Scenes/PrototypeScene_RaceAI.unity
+    guid: 8005b71dc9fcbf04ba9f64eebfaa279b
   m_configObjects: {}
